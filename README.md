@@ -1,5 +1,7 @@
 # Image-adaptive 3D Lookup Tables for Real-time Image Enhancement with Bilateral Grids
 
+[Paper](https://www.ecva.net/papers/eccv_2024/papers_ECCV/html/6517_ECCV_2024_paper.php) 
+
 ## Introduction
 The project provides the official PyTorch implementation with pretrained models for the paper "Image-adaptive 3D Lookup Tables for Real-time Image Enhancement with Bilateral Grids" (accepted by ECCV 2024).
 
